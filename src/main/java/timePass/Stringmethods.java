@@ -1,6 +1,5 @@
 package timePass;
 
-
 public class Stringmethods {
 
 	public static void main(java.lang.String[] args) {

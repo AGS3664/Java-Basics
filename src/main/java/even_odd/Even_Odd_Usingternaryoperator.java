@@ -2,7 +2,6 @@ package even_odd;
 
 import java.util.Scanner;
 
-
 public class Even_Odd_Usingternaryoperator {
 
 	public static void main(String[] args) {
