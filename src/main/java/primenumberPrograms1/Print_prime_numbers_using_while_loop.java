@@ -1,4 +1,4 @@
-package primenumberPrograms;
+package primenumberPrograms1;
 
 public class Print_prime_numbers_using_while_loop {
 

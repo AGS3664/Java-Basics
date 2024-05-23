@@ -1,4 +1,4 @@
-package primenumberPrograms;
+package primenumberPrograms1;
 
 public class Print_first_10_prime_numbers1 {
 

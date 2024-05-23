@@ -1,4 +1,4 @@
-package impProblems;
+package impProblems1;
 
 import java.util.Scanner;
 

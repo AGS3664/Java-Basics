@@ -1,8 +1,8 @@
-package even_odd;
+package even_odd1;
 
 import java.util.Scanner;
 
-public class Even_Odd_Usingternaryoperator2 {
+public class Even_Odd_Usingternaryoperator {
 
 	public static void main(String[] args) {
 
@@ -11,9 +11,9 @@ public class Even_Odd_Usingternaryoperator2 {
 		System.out.println("Please enter the Number : ");
 		num = sc.nextInt();
 	
-		int res=(num%2==0) ? 0 : 1;
+		String res=(num%2==0) ? "Even" : "Odd";
 		
-		if(res==0)
+		if(res=="Even")
 		{
 			System.out.println("\n" + num + "  is Even Number");
 		}

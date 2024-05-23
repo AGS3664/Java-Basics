@@ -1,4 +1,4 @@
-package timePass;
+package timePass1;
 
 public class Print_a {
 

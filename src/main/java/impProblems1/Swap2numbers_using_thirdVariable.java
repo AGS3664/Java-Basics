@@ -1,4 +1,4 @@
-package impProblems;
+package impProblems1;
 
 public class Swap2numbers_using_thirdVariable {
 

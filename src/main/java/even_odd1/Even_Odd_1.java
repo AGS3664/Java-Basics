@@ -1,4 +1,4 @@
-package even_odd;
+package even_odd1;
 
 import java.util.Scanner;
 
