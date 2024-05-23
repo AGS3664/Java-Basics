@@ -2,7 +2,7 @@ package even_odd;
 
 import java.util.Scanner;
 
-public class Even_Odd_1 {
+public class Even_Odd_1 { 
 
 	public static void main(String[] args) {
 
